@@ -2,9 +2,9 @@ source: https://www.elastic.co/guide/en/elasticsearch/reference/current/run-elas
 
 # 1 set password
 export ELASTIC_PASSWORD="<ES_PASSWORD>"  # password for "elastic" username
--  ES_PASSWORD is set to h*4 for me
+
 export KIBANA_PASSWORD="<KIB_PASSWORD>"  # Used _internally_ by Kibana, must be at least 6 characters long
-- KIB_PASSWORD is set to kibana_*4 for me
+
 
 # 2 Create a Docker network
 ```
