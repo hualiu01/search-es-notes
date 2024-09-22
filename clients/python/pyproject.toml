@@ -1,0 +1,22 @@
+[tool.pytest.ini_options]
+pythonpath = [
+  "src"
+]
+log_cli =  true
+log_cli_level = "INFO"  # Set the logging level for console output
+log_cli_format = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"  # Customize the format
+log_cli_date_format = "%Y-%m-%d %H:%M:%S"  # Customize date format
+
+[tool.flake8]
+max-line-length = 88  # Set the maximum line length
+extend-ignore = [
+  "E203",  # Whitespace before ':'
+  "W503",  # Line break occurred before a binary operator
+  "W293",  # blank line contains whitespace
+  "E501",  # line too long
+]  # Ignore specific error codes
+exclude = ["*.git", "__pycache__", "env", ".venv"]  # Exclude these directories
+
+[tool.black]
+line-length = 79
+

@@ -1,2 +1,8 @@
 elasticsearch
-pytest
+python-dotenv # manage env vars
+
+pytest # run tests
+
+flake8 # code style
+black # code formatter
+mypy # static type checker

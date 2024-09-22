@@ -1,12 +1,17 @@
 # Get Started
 
-## venv
-
-Compile `requirements.in`:
 ```
-pip-compile requirements.in -o requirements.txt
+# create .venv and install requirements 
+make
+```
+To run all the tests:
+```
+# run tests
+make test
 ```
 
-
-First time only: create a new venv + install 
-Later: activate venv
+## for dev
+To reformat
+```
+make format
+```
