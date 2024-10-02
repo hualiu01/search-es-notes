@@ -1,13 +1,11 @@
 import requests
 import re
-from common.os_utils import get_required_env_var
+from common.os_utils import file_in_project_data_dir
 
 def query_imdb_top_250_movie_titles() -> list:
 
     # Note: load from manually downloaded html instead of CURL, because of 403
-    data_dir = get_required_env_var("OMDB_LOCAL_DATA_DIR")
-    imdb_top_250_local_html_fp = f"{data_dir}/IMDB_Top_250_Movies.html"
-    with open(imdb_top_250_local_html_fp, 'r', encoding='utf-8') as f:
+    with open(file_in_project_data_dir("IMDB_Top_250_Movies.html"), 'r', encoding='utf-8') as f:
         text = f.read()
     
     # Regular expression pattern to match "name":"<any string>"
