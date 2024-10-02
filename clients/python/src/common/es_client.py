@@ -7,7 +7,7 @@ from typing import Any
 logger = logging.getLogger(__name__)
 
 
-class ES_client:
+class EsClient:
 
     def __init__(self) -> None:
         self.es_url = get_required_env_var("ES_ENDPOINT")

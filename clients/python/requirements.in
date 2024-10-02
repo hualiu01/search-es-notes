@@ -1,6 +1,9 @@
 elasticsearch
 python-dotenv # manage env vars
 
+requests
+bs4 # beautiful soup crawler
+
 pytest # run tests
 
 flake8 # code style

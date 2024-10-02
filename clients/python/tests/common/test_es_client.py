@@ -1,9 +1,9 @@
-from common.py_client import ES_client
+from common.es_client import EsClient
 import logging
 
 logger = logging.getLogger(__name__)
 
-es = ES_client()
+es = EsClient()
 
 
 def test_es_connection():
