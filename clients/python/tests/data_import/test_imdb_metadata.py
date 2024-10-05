@@ -26,3 +26,10 @@ def test_get_movie_by_title():
     assert len(resp_json.keys()) > 1 
 
     logger.info(resp_json)
+
+def test_get_movie_by_title_same_title_different_ids():
+    resp_json = imdb_data_importer.get_movie_by_title("Crash")
+
+    assert type(resp_json) == dict  # only one match returned!
+
+    logger.info(resp_json)

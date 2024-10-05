@@ -32,7 +32,7 @@ def get_req(
 
     # send request
     logger.info(
-        f"sending GET http request to {url} with parameters {url_parameters}"
+        f"sending HTTP GET request to {url} with parameters {url_parameters}"
     )
     response = session.get(
         url=url,
