@@ -1,0 +1,480 @@
+https://www.imdb.com/title/tt9770150/,Nomadland
+https://www.imdb.com/title/tt10272386/,The Father
+https://www.imdb.com/title/tt9784798/,Judas and the Black Messiah
+https://www.imdb.com/title/tt10618286/,Mank
+https://www.imdb.com/title/tt10633456/,Minari
+https://www.imdb.com/title/tt9620292/,Promising Young Woman
+https://www.imdb.com/title/tt5363618/,Sound of Metal
+https://www.imdb.com/title/tt1070874/,The Trial of the Chicago 7
+https://www.imdb.com/title/tt6751668/,Parasite
+https://www.imdb.com/title/tt1950186/,Ford v Ferrari
+https://www.imdb.com/title/tt7286456/,Joker
+https://www.imdb.com/title/tt7653254/,Marriage Story
+https://www.imdb.com/title/tt1302006/,The Irishman
+https://www.imdb.com/title/tt8579674/,1917
+https://www.imdb.com/title/tt2584384/,Jojo Rabbit
+https://www.imdb.com/title/tt3281548/,Little Women
+https://www.imdb.com/title/tt7131622/,Once Upon a Time... in Hollywood
+https://www.imdb.com/title/tt6966692/,Green Book
+https://www.imdb.com/title/tt1825683/,Black Panther
+https://www.imdb.com/title/tt7349662/,BlacKkKlansman
+https://www.imdb.com/title/tt1727824/,Bohemian Rhapsody
+https://www.imdb.com/title/tt5083738/,The Favourite
+https://www.imdb.com/title/tt6155172/,Roma
+https://www.imdb.com/title/tt1517451/,A Star Is Born
+https://www.imdb.com/title/tt6266538/,Vice
+https://www.imdb.com/title/tt5580390/,The Shape of Water
+https://www.imdb.com/title/tt5013056/,Dunkirk
+https://www.imdb.com/title/tt5027774/,Three Billboards Outside Ebbing, Missouri
+https://www.imdb.com/title/tt4925292/,Lady Bird
+https://www.imdb.com/title/tt6294822/,The Post
+https://www.imdb.com/title/tt5052448/,Get Out
+https://www.imdb.com/title/tt5726616/,Call Me by Your Name
+https://www.imdb.com/title/tt4555426/,Darkest Hour
+https://www.imdb.com/title/tt5294550/,All the Money in the World
+https://www.imdb.com/title/tt4975722/,Moonlight
+https://www.imdb.com/title/tt2543164/,Arrival
+https://www.imdb.com/title/tt2671706/,Fences
+https://www.imdb.com/title/tt2119532/,Hacksaw Ridge
+https://www.imdb.com/title/tt2582782/,Hell or High Water
+https://www.imdb.com/title/tt4846340/,Hidden Figures
+https://www.imdb.com/title/tt3783958/,La La Land
+https://www.imdb.com/title/tt3741834/,Lion
+https://www.imdb.com/title/tt4034228/,Manchester by the Sea
+https://www.imdb.com/title/tt1895587/,Spotlight
+https://www.imdb.com/title/tt1596363/,The Big Short
+https://www.imdb.com/title/tt3682448/,Bridge of Spies
+https://www.imdb.com/title/tt2381111/,Brooklyn
+https://www.imdb.com/title/tt1392190/,Mad Max: Fury Road
+https://www.imdb.com/title/tt3659388/,The Martian
+https://www.imdb.com/title/tt1663202/,The Revenant
+https://www.imdb.com/title/tt3170832/,Room
+https://www.imdb.com/title/tt2562232/,Birdman or (The Unexpected Virtue of Ignorance)
+https://www.imdb.com/title/tt2179136/,American Sniper
+https://www.imdb.com/title/tt1065073/,Boyhood
+https://www.imdb.com/title/tt2084970/,The Imitation Game
+https://www.imdb.com/title/tt2278388/,The Grand Budapest Hotel
+https://www.imdb.com/title/tt1020072/,Selma
+https://www.imdb.com/title/tt2980516/,The Theory of Everything
+https://www.imdb.com/title/tt2582802/,Whiplash
+https://www.imdb.com/title/tt2024544/,12 Years a Slave
+https://www.imdb.com/title/tt1800241/,American Hustle
+https://www.imdb.com/title/tt1535109/,Captain Phillips
+https://www.imdb.com/title/tt0790636/,Dallas Buyers Club
+https://www.imdb.com/title/tt1454468/,Gravity
+https://www.imdb.com/title/tt1798709/,Her
+https://www.imdb.com/title/tt1821549/,Nebraska
+https://www.imdb.com/title/tt2431286/,Philomena
+https://www.imdb.com/title/tt0993846/,The Wolf of Wall Street
+https://www.imdb.com/title/tt1024648/,Argo
+https://www.imdb.com/title/tt2125435/,Beasts of the Southern Wild
+https://www.imdb.com/title/tt1790885/,Zero Dark Thirty
+https://www.imdb.com/title/tt1602620/,Amour
+https://www.imdb.com/title/tt1045658/,Silver Linings Playbook
+https://www.imdb.com/title/tt0443272/,Lincoln
+https://www.imdb.com/title/tt0454876/,Life of Pi
+https://www.imdb.com/title/tt1707386/,Les Misérables
+https://www.imdb.com/title/tt1853728/,Django Unchained
+https://www.imdb.com/title/tt1655442/,The Artist
+https://www.imdb.com/title/tt0478304/,The Tree of Life
+https://www.imdb.com/title/tt1033575/,The Descendants
+https://www.imdb.com/title/tt0477302/,Extremely Loud & Incredibly Close
+https://www.imdb.com/title/tt1454029/,The Help
+https://www.imdb.com/title/tt0970179/,Hugo
+https://www.imdb.com/title/tt1605783/,Midnight in Paris
+https://www.imdb.com/title/tt1210166/,Moneyball
+https://www.imdb.com/title/tt1568911/,War Horse
+https://www.imdb.com/title/tt1504320/,The King's Speech
+https://www.imdb.com/title/tt1542344/,127 Hours
+https://www.imdb.com/title/tt0947798/,Black Swan
+https://www.imdb.com/title/tt0964517/,The Fighter
+https://www.imdb.com/title/tt1375666/,Inception
+https://www.imdb.com/title/tt0842926/,The Kids Are All Right
+https://www.imdb.com/title/tt1285016/,The Social Network
+https://www.imdb.com/title/tt0435761/,Toy Story 3
+https://www.imdb.com/title/tt1403865/,True Grit
+https://www.imdb.com/title/tt0887912/,The Hurt Locker
+https://www.imdb.com/title/tt1019452/,A Serious Man
+https://www.imdb.com/title/tt1174732/,An Education
+https://www.imdb.com/title/tt0499549/,Avatar
+https://www.imdb.com/title/tt1136608/,District 9
+https://www.imdb.com/title/tt0361748/,Inglourious Basterds
+https://www.imdb.com/title/tt0929632/,Precious
+https://www.imdb.com/title/tt0878804/,The Blind Side
+https://www.imdb.com/title/tt1049413/,Up
+https://www.imdb.com/title/tt1193138/,Up in the Air
+https://www.imdb.com/title/tt1010048/,Slumdog Millionaire
+https://www.imdb.com/title/tt0421715/,The Curious Case of Benjamin Button
+https://www.imdb.com/title/tt0870111/,Frost/Nixon
+https://www.imdb.com/title/tt1013753/,Milk
+https://www.imdb.com/title/tt0976051/,The Reader
+https://www.imdb.com/title/tt0477348/,No Country for Old Men
+https://www.imdb.com/title/tt0783233/,Atonement
+https://www.imdb.com/title/tt0467406/,Juno
+https://www.imdb.com/title/tt0465538/,Michael Clayton
+https://www.imdb.com/title/tt0469494/,There Will Be Blood
+https://www.imdb.com/title/tt0407887/,The Departed
+https://www.imdb.com/title/tt0449467/,Babel
+https://www.imdb.com/title/tt0498380/,Letters from Iwo Jima
+https://www.imdb.com/title/tt0449059/,Little Miss Sunshine
+https://www.imdb.com/title/tt0436697/,The Queen
+https://www.imdb.com/title/tt0375679/,Crash
+https://www.imdb.com/title/tt0388795/,Brokeback Mountain
+https://www.imdb.com/title/tt0379725/,Capote
+https://www.imdb.com/title/tt0433383/,Good Night, and Good Luck.
+https://www.imdb.com/title/tt0408306/,Munich
+https://www.imdb.com/title/tt0405159/,Million Dollar Baby
+https://www.imdb.com/title/tt0338751/,The Aviator
+https://www.imdb.com/title/tt0308644/,Finding Neverland
+https://www.imdb.com/title/tt0350258/,Ray
+https://www.imdb.com/title/tt0375063/,Sideways
+https://www.imdb.com/title/tt0167260/,The Lord of the Rings: The Return of the King
+https://www.imdb.com/title/tt0335266/,Lost in Translation
+https://www.imdb.com/title/tt0311113/,Master and Commander: The Far Side of the World
+https://www.imdb.com/title/tt0327056/,Mystic River
+https://www.imdb.com/title/tt0329575/,Seabiscuit
+https://www.imdb.com/title/tt0299658/,Chicago
+https://www.imdb.com/title/tt0217505/,Gangs of New York
+https://www.imdb.com/title/tt0274558/,The Hours
+https://www.imdb.com/title/tt0167261/,The Lord of the Rings: The Two Towers
+https://www.imdb.com/title/tt0253474/,The Pianist
+https://www.imdb.com/title/tt0268978/,A Beautiful Mind
+https://www.imdb.com/title/tt0280707/,Gosford Park
+https://www.imdb.com/title/tt0247425/,In the Bedroom
+https://www.imdb.com/title/tt0120737/,The Lord of the Rings: The Fellowship of the Ring
+https://www.imdb.com/title/tt0203009/,Moulin Rouge!
+https://www.imdb.com/title/tt0172495/,Gladiator
+https://www.imdb.com/title/tt0241303/,Chocolat
+https://www.imdb.com/title/tt0190332/,Crouching Tiger, Hidden Dragon
+https://www.imdb.com/title/tt0195685/,Erin Brockovich
+https://www.imdb.com/title/tt0181865/,Traffic
+https://www.imdb.com/title/tt0169547/,American Beauty
+https://www.imdb.com/title/tt0124315/,The Cider House Rules
+https://www.imdb.com/title/tt0120689/,The Green Mile
+https://www.imdb.com/title/tt0140352/,The Insider
+https://www.imdb.com/title/tt0167404/,The Sixth Sense
+https://www.imdb.com/title/tt0138097/,Shakespeare in Love
+https://www.imdb.com/title/tt0127536/,Elizabeth
+https://www.imdb.com/title/tt0118799/,Life Is Beautiful
+https://www.imdb.com/title/tt0120815/,Saving Private Ryan
+https://www.imdb.com/title/tt0120863/,The Thin Red Line
+https://www.imdb.com/title/tt0120338/,Titanic
+https://www.imdb.com/title/tt0119822/,As Good as It Gets
+https://www.imdb.com/title/tt0119164/,The Full Monty
+https://www.imdb.com/title/tt0119217/,Good Will Hunting
+https://www.imdb.com/title/tt0119488/,L.A. Confidential
+https://www.imdb.com/title/tt0116209/,The English Patient
+https://www.imdb.com/title/tt0116282/,Fargo
+https://www.imdb.com/title/tt0116695/,Jerry Maguire
+https://www.imdb.com/title/tt0117589/,Secrets & Lies
+https://www.imdb.com/title/tt0117631/,Shine
+https://www.imdb.com/title/tt0112573/,Braveheart
+https://www.imdb.com/title/tt0112384/,Apollo 13
+https://www.imdb.com/title/tt0112431/,Babe
+https://www.imdb.com/title/tt0110877/,The Postman
+https://www.imdb.com/title/tt0114388/,Sense and Sensibility
+https://www.imdb.com/title/tt0109830/,Forrest Gump
+https://www.imdb.com/title/tt0109831/,Four Weddings and a Funeral
+https://www.imdb.com/title/tt0110912/,Pulp Fiction
+https://www.imdb.com/title/tt0110932/,Quiz Show
+https://www.imdb.com/title/tt0111161/,The Shawshank Redemption
+https://www.imdb.com/title/tt0108052/,Schindler's List
+https://www.imdb.com/title/tt0106977/,The Fugitive
+https://www.imdb.com/title/tt0107207/,In the Name of the Father
+https://www.imdb.com/title/tt0107822/,The Piano
+https://www.imdb.com/title/tt0107943/,The Remains of the Day
+https://www.imdb.com/title/tt0105695/,Unforgiven
+https://www.imdb.com/title/tt0104036/,The Crying Game
+https://www.imdb.com/title/tt0104257/,A Few Good Men
+https://www.imdb.com/title/tt0104454/,Howards End
+https://www.imdb.com/title/tt0105323/,Scent of a Woman
+https://www.imdb.com/title/tt0102926/,The Silence of the Lambs
+https://www.imdb.com/title/tt0101414/,Beauty and the Beast
+https://www.imdb.com/title/tt0101516/,Bugsy
+https://www.imdb.com/title/tt0102138/,JFK
+https://www.imdb.com/title/tt0102713/,The Prince of Tides
+https://www.imdb.com/title/tt0099348/,Dances with Wolves
+https://www.imdb.com/title/tt0099077/,Awakenings
+https://www.imdb.com/title/tt0099653/,Ghost
+https://www.imdb.com/title/tt0099674/,The Godfather Part III
+https://www.imdb.com/title/tt0099685/,Goodfellas
+https://www.imdb.com/title/tt0097239/,Driving Miss Daisy
+https://www.imdb.com/title/tt0096969/,Born on the Fourth of July
+https://www.imdb.com/title/tt0097165/,Dead Poets Society
+https://www.imdb.com/title/tt0097351/,Field of Dreams
+https://www.imdb.com/title/tt0097937/,My Left Foot
+https://www.imdb.com/title/tt0095953/,Rain Man
+https://www.imdb.com/title/tt0094606/,The Accidental Tourist
+https://www.imdb.com/title/tt0094947/,Dangerous Liaisons
+https://www.imdb.com/title/tt0095647/,Mississippi Burning
+https://www.imdb.com/title/tt0096463/,Working Girl
+https://www.imdb.com/title/tt0093389/,The Last Emperor
+https://www.imdb.com/title/tt0092699/,Broadcast News
+https://www.imdb.com/title/tt0093010/,Fatal Attraction
+https://www.imdb.com/title/tt0093209/,Hope and Glory
+https://www.imdb.com/title/tt0093565/,Moonstruck
+https://www.imdb.com/title/tt0091763/,Platoon
+https://www.imdb.com/title/tt0090830/,Children of a Lesser God
+https://www.imdb.com/title/tt0091167/,Hannah and Her Sisters
+https://www.imdb.com/title/tt0091530/,The Mission
+https://www.imdb.com/title/tt0091867/,A Room with a View
+https://www.imdb.com/title/tt0089755/,Out of Africa
+https://www.imdb.com/title/tt0088939/,The Color Purple
+https://www.imdb.com/title/tt0089424/,Kiss of the Spider Woman
+https://www.imdb.com/title/tt0089841/,Prizzi's Honor
+https://www.imdb.com/title/tt0090329/,Witness
+https://www.imdb.com/title/tt0086879/,Amadeus
+https://www.imdb.com/title/tt0087553/,The Killing Fields
+https://www.imdb.com/title/tt0087892/,A Passage to India
+https://www.imdb.com/title/tt0087921/,Places in the Heart
+https://www.imdb.com/title/tt0088146/,A Soldier's Story
+https://www.imdb.com/title/tt0086425/,Terms of Endearment
+https://www.imdb.com/title/tt0085244/,The Big Chill
+https://www.imdb.com/title/tt0085461/,The Dresser
+https://www.imdb.com/title/tt0086197/,The Right Stuff
+https://www.imdb.com/title/tt0086423/,Tender Mercies
+https://www.imdb.com/title/tt0083987/,Gandhi
+https://www.imdb.com/title/tt0083866/,E.T. the Extra-Terrestrial
+https://www.imdb.com/title/tt0084335/,Missing
+https://www.imdb.com/title/tt0084805/,Tootsie
+https://www.imdb.com/title/tt0084855/,The Verdict
+https://www.imdb.com/title/tt0082158/,Chariots of Fire
+https://www.imdb.com/title/tt0080388/,Atlantic City
+https://www.imdb.com/title/tt0082846/,On Golden Pond
+https://www.imdb.com/title/tt0082971/,Raiders of the Lost Ark
+https://www.imdb.com/title/tt0082979/,Reds
+https://www.imdb.com/title/tt0081283/,Ordinary People
+https://www.imdb.com/title/tt0080549/,Coal Miner's Daughter
+https://www.imdb.com/title/tt0080678/,The Elephant Man
+https://www.imdb.com/title/tt0081398/,Raging Bull
+https://www.imdb.com/title/tt0080009/,Tess
+https://www.imdb.com/title/tt0079417/,Kramer vs. Kramer
+https://www.imdb.com/title/tt0078754/,All That Jazz
+https://www.imdb.com/title/tt0078788/,Apocalypse Now
+https://www.imdb.com/title/tt0078902/,Breaking Away
+https://www.imdb.com/title/tt0079638/,Norma Rae
+https://www.imdb.com/title/tt0077416/,The Deer Hunter
+https://www.imdb.com/title/tt0077362/,Coming Home
+https://www.imdb.com/title/tt0077663/,Heaven Can Wait
+https://www.imdb.com/title/tt0077928/,Midnight Express
+https://www.imdb.com/title/tt0078444/,An Unmarried Woman
+https://www.imdb.com/title/tt0075686/,Annie Hall
+https://www.imdb.com/title/tt0076095/,The Goodbye Girl
+https://www.imdb.com/title/tt0076245/,Julia
+https://www.imdb.com/title/tt0076759/,Star Wars: Episode IV - A New Hope
+https://www.imdb.com/title/tt0076843/,The Turning Point
+https://www.imdb.com/title/tt0075148/,Rocky
+https://www.imdb.com/title/tt0074119/,All the President's Men
+https://www.imdb.com/title/tt0074235/,Bound for Glory
+https://www.imdb.com/title/tt0074958/,Network
+https://www.imdb.com/title/tt0075314/,Taxi Driver
+https://www.imdb.com/title/tt0073486/,One Flew Over the Cuckoo's Nest
+https://www.imdb.com/title/tt0072684/,Barry Lyndon
+https://www.imdb.com/title/tt0072890/,Dog Day Afternoon
+https://www.imdb.com/title/tt0073195/,Jaws
+https://www.imdb.com/title/tt0073440/,Nashville
+https://www.imdb.com/title/tt0071562/,The Godfather Part II
+https://www.imdb.com/title/tt0071315/,Chinatown
+https://www.imdb.com/title/tt0071360/,The Conversation
+https://www.imdb.com/title/tt0071746/,Lenny
+https://www.imdb.com/title/tt0072308/,The Towering Inferno
+https://www.imdb.com/title/tt0070735/,The Sting
+https://www.imdb.com/title/tt0069704/,American Graffiti
+https://www.imdb.com/title/tt0069467/,Cries & Whispers
+https://www.imdb.com/title/tt0070047/,The Exorcist
+https://www.imdb.com/title/tt0070819/,A Touch of Class
+https://www.imdb.com/title/tt0068646/,The Godfather
+https://www.imdb.com/title/tt0068327/,Cabaret
+https://www.imdb.com/title/tt0068473/,Deliverance
+https://www.imdb.com/title/tt0067919/,The Emigrants
+https://www.imdb.com/title/tt0069303/,Sounder
+https://www.imdb.com/title/tt0067116/,The French Connection
+https://www.imdb.com/title/tt0066921/,A Clockwork Orange
+https://www.imdb.com/title/tt0067093/,Fiddler on the Roof
+https://www.imdb.com/title/tt0067328/,The Last Picture Show
+https://www.imdb.com/title/tt0067483/,Nicholas and Alexandra
+https://www.imdb.com/title/tt0066206/,Patton
+https://www.imdb.com/title/tt0065377/,Airport
+https://www.imdb.com/title/tt0065724/,Five Easy Pieces
+https://www.imdb.com/title/tt0066011/,Love Story
+https://www.imdb.com/title/tt0066026/,M*A*S*H
+https://www.imdb.com/title/tt0064665/,Midnight Cowboy
+https://www.imdb.com/title/tt0064030/,Anne of the Thousand Days
+https://www.imdb.com/title/tt0064115/,Butch Cassidy and the Sundance Kid
+https://www.imdb.com/title/tt0064418/,Hello, Dolly!
+https://www.imdb.com/title/tt0065234/,Z
+https://www.imdb.com/title/tt0063385/,Oliver!
+https://www.imdb.com/title/tt0062994/,Funny Girl
+https://www.imdb.com/title/tt0063227/,The Lion in Winter
+https://www.imdb.com/title/tt0063483/,Rachel, Rachel
+https://www.imdb.com/title/tt0063518/,Romeo and Juliet
+https://www.imdb.com/title/tt0061811/,In the Heat of the Night
+https://www.imdb.com/title/tt0061418/,Bonnie and Clyde
+https://www.imdb.com/title/tt0061584/,Doctor Dolittle
+https://www.imdb.com/title/tt0061722/,The Graduate
+https://www.imdb.com/title/tt0061735/,Guess Who's Coming to Dinner
+https://www.imdb.com/title/tt0060665/,A Man for All Seasons
+https://www.imdb.com/title/tt0060086/,Alfie
+https://www.imdb.com/title/tt0060921/,The Russians Are Coming the Russians Are Coming
+https://www.imdb.com/title/tt0060934/,The Sand Pebbles
+https://www.imdb.com/title/tt0061184/,Who's Afraid of Virginia Woolf?
+https://www.imdb.com/title/tt0059742/,The Sound of Music
+https://www.imdb.com/title/tt0059084/,Darling
+https://www.imdb.com/title/tt0059113/,Doctor Zhivago
+https://www.imdb.com/title/tt0059712/,Ship of Fools
+https://www.imdb.com/title/tt0059798/,A Thousand Clowns
+https://www.imdb.com/title/tt0058385/,My Fair Lady
+https://www.imdb.com/title/tt0057877/,Becket
+https://www.imdb.com/title/tt0057012/,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+https://www.imdb.com/title/tt0058331/,Mary Poppins
+https://www.imdb.com/title/tt0057831/,Zorba the Greek
+https://www.imdb.com/title/tt0057590/,Tom Jones
+https://www.imdb.com/title/tt0056825/,America America
+https://www.imdb.com/title/tt0056937/,Cleopatra
+https://www.imdb.com/title/tt0056085/,How the West Was Won
+https://www.imdb.com/title/tt0057251/,Lilies of the Field
+https://www.imdb.com/title/tt0056172/,Lawrence of Arabia
+https://www.imdb.com/title/tt0056197/,The Longest Day
+https://www.imdb.com/title/tt0056262/,The Music Man
+https://www.imdb.com/title/tt0056264/,Mutiny on the Bounty
+https://www.imdb.com/title/tt0056592/,To Kill a Mockingbird
+https://www.imdb.com/title/tt0055614/,West Side Story
+https://www.imdb.com/title/tt0054866/,Fanny
+https://www.imdb.com/title/tt0054953/,The Guns of Navarone
+https://www.imdb.com/title/tt0054997/,The Hustler
+https://www.imdb.com/title/tt0055031/,Judgment at Nuremberg
+https://www.imdb.com/title/tt0053604/,The Apartment
+https://www.imdb.com/title/tt0053580/,The Alamo
+https://www.imdb.com/title/tt0053793/,Elmer Gantry
+https://www.imdb.com/title/tt0054326/,Sons and Lovers
+https://www.imdb.com/title/tt0054353/,The Sundowners
+https://www.imdb.com/title/tt0052618/,Ben-Hur
+https://www.imdb.com/title/tt0052561/,Anatomy of a Murder
+https://www.imdb.com/title/tt0052738/,The Diary of Anne Frank
+https://www.imdb.com/title/tt0053131/,The Nun's Story
+https://www.imdb.com/title/tt0053226/,Room at the Top
+https://www.imdb.com/title/tt0051658/,Gigi
+https://www.imdb.com/title/tt0051383/,Auntie Mame
+https://www.imdb.com/title/tt0051459/,Cat on a Hot Tin Roof
+https://www.imdb.com/title/tt0051525/,The Defiant Ones
+https://www.imdb.com/title/tt0052182/,Separate Tables
+https://www.imdb.com/title/tt0050212/,The Bridge on the River Kwai
+https://www.imdb.com/title/tt0050839/,Peyton Place
+https://www.imdb.com/title/tt0050933/,Sayonara
+https://www.imdb.com/title/tt0050083/,12 Angry Men
+https://www.imdb.com/title/tt0051201/,Witness for the Prosecution
+https://www.imdb.com/title/tt0048960/,Around the World in 80 Days
+https://www.imdb.com/title/tt0049233/,Friendly Persuasion
+https://www.imdb.com/title/tt0049261/,Giant
+https://www.imdb.com/title/tt0049408/,The King and I
+https://www.imdb.com/title/tt0049833/,The Ten Commandments
+https://www.imdb.com/title/tt0048356/,Marty
+https://www.imdb.com/title/tt0048316/,Love Is a Many-Splendored Thing
+https://www.imdb.com/title/tt0048380/,Mister Roberts
+https://www.imdb.com/title/tt0048491/,Picnic
+https://www.imdb.com/title/tt0048563/,The Rose Tattoo
+https://www.imdb.com/title/tt0047296/,On the Waterfront
+https://www.imdb.com/title/tt0046816/,The Caine Mutiny
+https://www.imdb.com/title/tt0046874/,The Country Girl
+https://www.imdb.com/title/tt0047472/,Seven Brides for Seven Brothers
+https://www.imdb.com/title/tt0047580/,Three Coins in the Fountain
+https://www.imdb.com/title/tt0045793/,From Here to Eternity
+https://www.imdb.com/title/tt0045943/,Julius Caesar
+https://www.imdb.com/title/tt0046247/,The Robe
+https://www.imdb.com/title/tt0046250/,Roman Holiday
+https://www.imdb.com/title/tt0046303/,Shane
+https://www.imdb.com/title/tt0044672/,The Greatest Show on Earth
+https://www.imdb.com/title/tt0044706/,High Noon
+https://www.imdb.com/title/tt0044760/,Ivanhoe
+https://www.imdb.com/title/tt0044926/,Moulin Rouge
+https://www.imdb.com/title/tt0045061/,The Quiet Man
+https://www.imdb.com/title/tt0043278/,An American in Paris
+https://www.imdb.com/title/tt0043459/,Decision Before Dawn
+https://www.imdb.com/title/tt0043924/,A Place in the Sun
+https://www.imdb.com/title/tt0043949/,Quo Vadis
+https://www.imdb.com/title/tt0044081/,A Streetcar Named Desire
+https://www.imdb.com/title/tt0042192/,All About Eve
+https://www.imdb.com/title/tt0042276/,Born Yesterday
+https://www.imdb.com/title/tt0042451/,Father of the Bride
+https://www.imdb.com/title/tt0042646/,King Solomon's Mines
+https://www.imdb.com/title/tt0043014/,Sunset Boulevard
+https://www.imdb.com/title/tt0041113/,All the King's Men
+https://www.imdb.com/title/tt0041163/,Battleground
+https://www.imdb.com/title/tt0041452/,The Heiress
+https://www.imdb.com/title/tt0041587/,A Letter to Three Wives
+https://www.imdb.com/title/tt0041996/,Twelve O'Clock High
+https://www.imdb.com/title/tt0040416/,Hamlet
+https://www.imdb.com/title/tt0040495/,Johnny Belinda
+https://www.imdb.com/title/tt0040725/,The Red Shoes
+https://www.imdb.com/title/tt0040806/,The Snake Pit
+https://www.imdb.com/title/tt0040897/,The Treasure of the Sierra Madre
+https://www.imdb.com/title/tt0039416/,Gentleman's Agreement
+https://www.imdb.com/title/tt0039190/,The Bishop's Wife
+https://www.imdb.com/title/tt0039286/,Crossfire
+https://www.imdb.com/title/tt0038574/,Great Expectations
+https://www.imdb.com/title/tt0039628/,Miracle on 34th Street
+https://www.imdb.com/title/tt0036868/,The Best Years of Our Lives
+https://www.imdb.com/title/tt0036910/,Henry V
+https://www.imdb.com/title/tt0038650/,It's a Wonderful Life
+https://www.imdb.com/title/tt0038873/,The Razor's Edge
+https://www.imdb.com/title/tt0039111/,The Yearling
+https://www.imdb.com/title/tt0037884/,The Lost Weekend
+https://www.imdb.com/title/tt0037514/,Anchors Aweigh
+https://www.imdb.com/title/tt0037536/,The Bells of St. Mary's
+https://www.imdb.com/title/tt0037913/,Mildred Pierce
+https://www.imdb.com/title/tt0038109/,Spellbound
+https://www.imdb.com/title/tt0036872/,Going My Way
+https://www.imdb.com/title/tt0036775/,Double Indemnity
+https://www.imdb.com/title/tt0036855/,Gaslight
+https://www.imdb.com/title/tt0037280/,Since You Went Away
+https://www.imdb.com/title/tt0037465/,Wilson
+https://www.imdb.com/title/tt0034583/,Casablanca
+https://www.imdb.com/title/tt0035896/,For Whom the Bell Tolls
+https://www.imdb.com/title/tt0035979/,Heaven Can Wait
+https://www.imdb.com/title/tt0036022/,The Human Comedy
+https://www.imdb.com/title/tt0034891/,In Which We Serve
+https://www.imdb.com/title/tt0036126/,Madame Curie
+https://www.imdb.com/title/tt0036172/,The More the Merrier
+https://www.imdb.com/title/tt0036244/,The Ox-Bow Incident
+https://www.imdb.com/title/tt0036377/,The Song of Bernadette
+https://www.imdb.com/title/tt0036515/,Watch on the Rhine
+https://www.imdb.com/title/tt0035093/,Mrs. Miniver
+https://www.imdb.com/title/tt0033627/,49th Parallel
+https://www.imdb.com/title/tt0034946/,Kings Row
+https://www.imdb.com/title/tt0035015/,The Magnificent Ambersons
+https://www.imdb.com/title/tt0035189/,The Pied Piper
+https://www.imdb.com/title/tt0035211/,The Pride of the Yankees
+https://www.imdb.com/title/tt0035238/,Random Harvest
+https://www.imdb.com/title/tt0035417/,The Talk of the Town
+https://www.imdb.com/title/tt0035530/,Wake Island
+https://www.imdb.com/title/tt0035575/,Yankee Doodle Dandy
+https://www.imdb.com/title/tt0033729/,How Green Was My Valley
+https://www.imdb.com/title/tt0033407/,Blossoms in the Dust
+https://www.imdb.com/title/tt0033467/,Citizen Kane
+https://www.imdb.com/title/tt0033712/,Here Comes Mr. Jordan
+https://www.imdb.com/title/tt0033722/,Hold Back the Dawn
+https://www.imdb.com/title/tt0033836/,The Little Foxes
+https://www.imdb.com/title/tt0033870/,The Maltese Falcon
+https://www.imdb.com/title/tt0033980/,One Foot in Heaven
+https://www.imdb.com/title/tt0034167/,Sergeant York
+https://www.imdb.com/title/tt0034248/,Suspicion
+https://www.imdb.com/title/tt0032976/,Rebecca
+https://www.imdb.com/title/tt0032194/,All This, and Heaven Too
+https://www.imdb.com/title/tt0032484/,Foreign Correspondent
+https://www.imdb.com/title/tt0032551/,The Grapes of Wrath
+https://www.imdb.com/title/tt0032553/,The Great Dictator
+https://www.imdb.com/title/tt0032671/,Kitty Foyle
+https://www.imdb.com/title/tt0032701/,The Letter
+https://www.imdb.com/title/tt0032728/,The Long Voyage Home
+https://www.imdb.com/title/tt0032881/,Our Town
+https://www.imdb.com/title/tt0032904/,The Philadelphia Story
+https://www.imdb.com/title/tt0031381/,Gone with the Wind
+https://www.imdb.com/title/tt0031210/,Dark Victory
+https://www.imdb.com/title/tt0031385/,Goodbye, Mr. Chips
+https://www.imdb.com/title/tt0031593/,Love Affair
+https://www.imdb.com/title/tt0031679/,Mr. Smith Goes to Washington
+https://www.imdb.com/title/tt0031725/,Ninotchka
+https://www.imdb.com/title/tt0031742/,Of Mice and Men
+https://www.imdb.com/title/tt0031971/,Stagecoach
+https://www.imdb.com/title/tt0032138/,The Wizard of Oz
+https://www.imdb.com/title/tt0032145/,Wuthering Heights

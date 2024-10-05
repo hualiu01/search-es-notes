@@ -1,6 +1,6 @@
 import os
 import glob
-from typing import Any,Optional
+from typing import Any
 import logging 
 
 logger = logging.getLogger(__name__)
@@ -18,10 +18,10 @@ def file_in_project_data_dir(file_name: str):
 
 def remove_all_file_with_suffix_in_dir(dir:str, filter_file_suffix:str="json"):
 
-    # Find all JSON files in the folder
+    # Find all files in the folder with specified suffix
     target_suffix = glob.glob(os.path.join(dir, f'*.{filter_file_suffix}'))
 
-    # Remove each JSON file
+    # Remove each target file
     for t_file in target_suffix:
         logger.info(f"removing {t_file}...")
         os.remove(t_file)

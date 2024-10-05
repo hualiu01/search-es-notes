@@ -34,22 +34,16 @@ make format
 # How to
 
 ## query imdb api (1000 per day cap) 
-To query IMDB for all movies in `../../data/imdb/out/IMDB*.txt`
+To query IMDB for specified movie list(s)
 ```
-make query_IMDB_movie_metadata
+make data
 ```
 
 ## run ES indexing
 ```
-make run_data_indexing
+make index
 ```
 
-## add new movies
+## add new movie lists
 
-First, download the html to folder `../../data/imdb/xxx.html`.
-Then, add parser def and call-in-main in file `src/data_import/imdb_movie_title_crawler.py`.
-At last, run:
-```
-make parse_or_crawl_movie_titles
-```
-The, re indexing ES if necessary.
+modify `src/data_import/imdb_movie_lists.py`
