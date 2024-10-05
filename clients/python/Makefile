@@ -1,5 +1,5 @@
 VENV = .venv
-PYTHON = $(VENV)/bin/python3.9
+PYTHON = $(VENV)/bin/python3
 PIP = $(VENV)/bin/pip
 PIP_COMPILE = $(VENV)/bin/pip-compile
 PYTEST = $(VENV)/bin/pytest
@@ -20,8 +20,29 @@ install: $(VENV)/bin/activate
 .PHONY: test
 test: $(VENV)/bin/activate
 	@echo "Running tests in tests folder..."
-	pytest -s
+	$(PYTEST) -s
 	@echo "Tests finished."
+
+.PHONY: parse_or_crawl_movie_titles
+parse_or_crawl_movie_titles: $(VENV)/bin/activate
+	@echo "crawl or parse movie titils from local manual downloads in ../../data/imdb/out"
+	export PYTHONPATH=src:PYTHONPATH && \
+	$(PYTHON) ./src/data_import/imdb_movie_title_crawler.py 
+	@echo "movie metadata preparation finished"
+
+.PHONY: query_IMDB_movie_metadata
+query_IMDB_movie_metadata: $(VENV)/bin/activate
+	@echo "crawl movie metadata from IMDB API and save locally in ../../data/imdb/out"
+	export PYTHONPATH=src:PYTHONPATH && \
+	$(PYTHON) ./src/data_import/imdb_metadata.py
+	@echo "movie metadata preparation finished"
+
+.PHONY: run_data_indexing
+run_data_indexing: $(VENV)/bin/activate
+	@echo "running data indexing on Elastic Search cluster..."
+	export PYTHONPATH=src:PYTHONPATH && \
+	$(PYTHON) ./src/index/es_indexer.py
+	@echo "successfully indexed ES with data in ../../data/imdb/out"
 
 .PHONY: format
 format: $(VENV)/bin/activate

@@ -2,6 +2,7 @@ elasticsearch
 python-dotenv # manage env vars
 
 requests
+types-requests
 bs4 # beautiful soup crawler
 
 pytest # run tests
