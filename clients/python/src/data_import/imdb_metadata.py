@@ -43,7 +43,7 @@ if __name__ == "__main__":
     imdb = ImdbMetadata()
     imdb_data_importer = ImdbMetadata()
 
-    conf_redownload_all = True
+    conf_redownload_all = False
 
     if conf_redownload_all:
         remove_all_file_with_suffix_in_dir(file_in_project_data_dir("raw"), filter_file_suffix="json")
