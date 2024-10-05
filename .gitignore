@@ -166,3 +166,4 @@ cython_debug/
 
 # data
 data/imdb/IMDB_Top_250_Movies.html
+data/imdb/raw/*.json
