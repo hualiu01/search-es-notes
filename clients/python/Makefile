@@ -27,7 +27,7 @@ test: $(VENV)/bin/activate
 data: $(VENV)/bin/activate
 	@echo "query movie metadata from IMDB API and save locally in ../../data/imdb/raw"
 	export PYTHONPATH=src:PYTHONPATH && \
-	$(PYTHON) ./src/data_import/imdb_movie_lists.py --mode replace_all IMDB_TOP_250 OSCAR_BEST_PICTURE_NOMINEES 
+	$(PYTHON) ./src/data_import/imdb_movie_lists.py --mode only_add_new IMDB_TOP_250 OSCAR_BEST_PICTURE_NOMINEES 
 	@echo "movie metadata preparation finished"
 
 .PHONY: index
