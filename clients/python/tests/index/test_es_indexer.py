@@ -12,9 +12,6 @@ def default_es_indexer():
 
 test_index_name = "test_movie_index"
 
-# def test_new_index(default_es_indexer):
-#     default_es_indexer.new_index(index_name="test_movie_index")
-
 def test_get_index_info_none_existed(default_es_indexer):
     resp = default_es_indexer.get_index_info(index_name="test_a_none_exit_index")
     assert resp is None
