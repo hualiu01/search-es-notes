@@ -13,6 +13,7 @@ $(VENV)/bin/activate:
 
 .PHONY: install
 install: $(VENV)/bin/activate
+	$(PYTHON) -m pip install --upgrade pip
 	$(PYTHON) -m pip install pip-tools
 	$(PIP_COMPILE) requirements.in -o requirements.txt
 	$(PIP) install -r requirements.txt

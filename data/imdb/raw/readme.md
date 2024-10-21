@@ -1,0 +1,1 @@
+This folder contains files named according to the pattern `r'tt\d{6}'`, where each file name represents an IMDb movie ID. Inside each file is the metadata retrieved from the IMDb API.
