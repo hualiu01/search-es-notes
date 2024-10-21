@@ -25,6 +25,10 @@ elasticsearch==8.15.1
 exceptiongroup==1.2.2
     # via pytest
 flake8==7.1.1
+    # via
+    #   -r requirements.in
+    #   flake8-pyproject
+flake8-pyproject==1.2.3
     # via -r requirements.in
 idna==3.10
     # via requests
@@ -67,6 +71,7 @@ soupsieve==2.6
 tomli==2.0.1
     # via
     #   black
+    #   flake8-pyproject
     #   mypy
     #   pytest
 types-requests==2.32.0.20240914

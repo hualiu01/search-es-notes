@@ -8,7 +8,7 @@ log_cli_format = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"  # Custo
 log_cli_date_format = "%Y-%m-%d %H:%M:%S"  # Customize date format
 
 [tool.flake8]
-max-line-length = 88  # Set the maximum line length
+# max-line-length = 88  # Set the maximum line length
 extend-ignore = [
   "E203",  # Whitespace before ':'
   "W503",  # Line break occurred before a binary operator
@@ -17,6 +17,6 @@ extend-ignore = [
 ]  # Ignore specific error codes
 exclude = ["*.git", "__pycache__", "env", ".venv"]  # Exclude these directories
 
-[tool.black]
-line-length = 79
+# [tool.black]
+# line-length = 120
 

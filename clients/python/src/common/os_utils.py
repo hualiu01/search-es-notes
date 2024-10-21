@@ -18,9 +18,7 @@ def file_in_project_data_dir(file_name: str):
     return f"{data_dir}/{file_name}"
 
 
-def remove_all_file_with_suffix_in_dir(
-    dir: str, filter_file_suffix: str = "json"
-):
+def remove_all_file_with_suffix_in_dir(dir: str, filter_file_suffix: str = "json"):
 
     # Find all files in the folder with specified suffix
     target_suffix = glob.glob(os.path.join(dir, f"*.{filter_file_suffix}"))

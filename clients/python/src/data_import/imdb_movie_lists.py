@@ -4,22 +4,20 @@ from common.os_utils import (
     remove_all_file_with_suffix_in_dir,
 )
 import logging
-from imdb_metadata import ImdbMetadata
+from .imdb_metadata import ImdbMetadata
 import csv
 from os.path import isfile
 
 import argparse
 from abc import ABC, abstractmethod
+from enum import Enum
 
 logger = logging.getLogger(__name__)
-from enum import Enum
 
 
 class MovieList(Enum):
     IMDB_TOP_250 = "IMDB_Top_250_Movies.html"
-    OSCAR_BEST_PICTURE_NOMINEES = (
-        "IMDB_best_picture_oscar_nominees_by_year.csv"
-    )
+    OSCAR_BEST_PICTURE_NOMINEES = "IMDB_best_picture_oscar_nominees_by_year.csv"
 
 
 class ImdbMovieList(ABC):
@@ -68,9 +66,7 @@ class ImdbMovieListOscarBestPictureNominees(ImdbMovieList):
     FP_IMDN_OSCAR_BP_NOMINEES = file_in_project_data_dir(
         MovieList.OSCAR_BEST_PICTURE_NOMINEES.value
     )
-    SAVE_TO = file_in_project_data_dir(
-        "out/IMDB_Oscar_Best_Picture_nominees.txt"
-    )
+    SAVE_TO = file_in_project_data_dir("out/IMDB_Oscar_Best_Picture_nominees.txt")
 
     def parse(self) -> None:
         with open(self.FP_IMDN_OSCAR_BP_NOMINEES, "r", encoding="utf-8") as f:

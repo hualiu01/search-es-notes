@@ -31,9 +31,7 @@ def get_req(
     session.headers.update(http_headers)
 
     # send request
-    logger.info(
-        f"sending HTTP GET request to {url} with parameters {url_parameters}"
-    )
+    logger.info(f"sending HTTP GET request to {url} with parameters {url_parameters}")
     response = session.get(
         url=url,
         params=url_parameters,
