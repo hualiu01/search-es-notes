@@ -27,7 +27,7 @@
 ```
 
 ```
-> tree -L 3 -I "*.pyc" clients/python
+> ➜  search-es-notes git:(main) tree -L 3 -I "*.pyc" -I "__pycache__" clients/python
 clients/python
 ├── Makefile
 ├── README.md
@@ -37,13 +37,12 @@ clients/python
 ├── src
 │   ├── common
 │   │   ├── __init__.py
-│   │   ├── __pycache__
 │   │   ├── es_client.py
 │   │   ├── http_utils.py
-│   │   └── os_utils.py
+│   │   ├── os_utils.py
+│   │   └── time_utils.py
 │   ├── data_import
 │   │   ├── __init__.py
-│   │   ├── __pycache__
 │   │   ├── imdb_metadata.py
 │   │   └── imdb_movie_lists.py
 │   ├── index
@@ -53,12 +52,11 @@ clients/python
 │       └── es_searcher.py
 └── tests
     ├── common
-    │   ├── __pycache__
     │   └── test_es_client.py
     ├── data_import
-    │   ├── __pycache__
     │   └── test_imdb_metadata.py
+    ├── index
+    │   └── test_es_indexer.py
     └── ingest
-        ├── __pycache__
         └── test_ingester.py
 ```
