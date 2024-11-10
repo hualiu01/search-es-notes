@@ -1,10 +1,13 @@
 # search-es-notes
 
 ```
-> tree -L 3                          
+> tree -L 3 
 .
 ├── Installation
-│   └── 0_local_installation_steps.md
+│   ├── 0_local_installation_steps.md
+│   ├── 1_docker_compose_es_kibana.md
+│   ├── docker-compose.yml
+│   └── setup_kibana_pw.sh
 ├── LICENSE
 ├── README.md
 ├── clients
@@ -23,7 +26,8 @@
         ├── out
         ├── raw
         └── readme.md
-13 directories, 15 files
+
+9 directories, 14 files
 ```
 
 ```
@@ -57,6 +61,6 @@ clients/python
     │   └── test_imdb_metadata.py
     ├── index
     │   └── test_es_indexer.py
-    └── ingest
-        └── test_ingester.py
+    └── search
+        └── test_es_seacher.py
 ```
