@@ -4,7 +4,7 @@ from common.os_utils import (
     remove_all_file_with_suffix_in_dir,
 )
 import logging
-from imdb_metadata import ImdbMetadata
+from data_import.imdb_metadata import ImdbMetadata
 import csv
 from os.path import isfile
 
