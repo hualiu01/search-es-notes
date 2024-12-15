@@ -12,3 +12,5 @@ flake8 # code style
 flake8-pyproject # add pyproject.toml support for flake8 configuration
 black # code formatter
 mypy # static type checker
+
+selenium # to use Chrome Driver to parse dynamic JS loaded webpages
