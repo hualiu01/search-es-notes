@@ -4,6 +4,10 @@
 #
 #    pip-compile --output-file=requirements.txt requirements.in
 #
+attrs==24.2.0
+    # via
+    #   outcome
+    #   trio
 beautifulsoup4==4.12.3
     # via bs4
 black==24.8.0
@@ -14,6 +18,7 @@ certifi==2024.8.30
     # via
     #   elastic-transport
     #   requests
+    #   selenium
 charset-normalizer==3.3.2
     # via requests
 click==8.1.7
@@ -23,15 +28,22 @@ elastic-transport==8.15.0
 elasticsearch==8.15.1
     # via -r requirements.in
 exceptiongroup==1.2.2
-    # via pytest
+    # via
+    #   pytest
+    #   trio
+    #   trio-websocket
 flake8==7.1.1
     # via
     #   -r requirements.in
     #   flake8-pyproject
 flake8-pyproject==1.2.3
     # via -r requirements.in
+h11==0.14.0
+    # via wsproto
 idna==3.10
-    # via requests
+    # via
+    #   requests
+    #   trio
 iniconfig==2.0.0
     # via pytest
 mccabe==0.7.0
@@ -42,6 +54,8 @@ mypy-extensions==1.0.0
     # via
     #   black
     #   mypy
+outcome==1.3.0.post0
+    # via trio
 packaging==24.1
     # via
     #   black
@@ -56,6 +70,8 @@ pycodestyle==2.12.1
     # via flake8
 pyflakes==3.2.0
     # via flake8
+pysocks==1.7.1
+    # via urllib3
 pytest==8.3.3
     # via
     #   -r requirements.in
@@ -66,6 +82,12 @@ python-dotenv==1.0.1
     # via -r requirements.in
 requests==2.32.3
     # via -r requirements.in
+selenium==4.27.1
+    # via -r requirements.in
+sniffio==1.3.1
+    # via trio
+sortedcontainers==2.4.0
+    # via trio
 soupsieve==2.6
     # via beautifulsoup4
 tomli==2.0.1
@@ -74,17 +96,29 @@ tomli==2.0.1
     #   flake8-pyproject
     #   mypy
     #   pytest
+trio==0.27.0
+    # via
+    #   selenium
+    #   trio-websocket
+trio-websocket==0.11.1
+    # via selenium
 types-requests==2.32.0.20240914
     # via -r requirements.in
 typing-extensions==4.12.2
     # via
     #   black
     #   mypy
-urllib3==2.2.3
+    #   selenium
+urllib3[socks]==2.2.3
     # via
     #   elastic-transport
     #   requests
+    #   selenium
     #   types-requests
+websocket-client==1.8.0
+    # via selenium
+wsproto==1.2.0
+    # via trio-websocket
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
