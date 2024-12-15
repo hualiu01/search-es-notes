@@ -31,6 +31,10 @@ class ImdbMovieList(ABC):
 
     @abstractmethod
     def parse(self) -> None:
+        """
+        A parse function which loads local stored move list files in various formats (such as .html, .csv).
+            Then, parse out tuple (id, name). At last store in self.SAVE_TO by calling self._save().
+        """
         pass
 
 
