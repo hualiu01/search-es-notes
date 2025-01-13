@@ -11,23 +11,39 @@
 ├── LICENSE
 ├── README.md
 ├── clients
-│   └── python
-│       ├── Makefile
-│       ├── README.md
-│       ├── pyproject.toml
-│       ├── requirements.in
-│       ├── requirements.txt
-│       ├── src
-│       └── tests
-└── data
-    └── imdb
-        ├── IMDB_Top_250_Movies.html
-        ├── IMDB_best_picture_oscar_nominees_by_year.csv
-        ├── out
-        ├── raw
-        └── readme.md
+│   ├── python
+│   │   ├── Makefile
+│   │   ├── README.md
+│   │   ├── pyproject.toml
+│   │   ├── requirements.in
+│   │   ├── requirements.txt
+│   │   ├── src
+│   │   └── tests
+│   └── restapi
+│       ├── bulk_inseart_docs.sh
+│       ├── data
+│       ├── delete_index.sh
+│       ├── new_index.sh
+│       └── search_1_to_be_or_not_to_be.sh
+├── data
+│   ├── imdb
+│   │   ├── IMDB_Top_250_Movies.html
+│   │   ├── IMDB_best_picture_oscar_nominees_by_year.csv
+│   │   ├── out
+│   │   ├── raw
+│   │   └── readme.md
+│   └── iyf
+│       ├── IYF_top_score_page__0.html
+│       ├── out
+│       └── raw
+└── docs
+    ├── 0_es_overview.md
+    ├── 1_es_architecture.md
+    ├── 2_es_query_lang.md
+    ├── 3_es_rest_api_examples.md
+    └── ElasticStack7.pdf
 
-9 directories, 14 files
+15 directories, 24 files
 ```
 
 ```
@@ -41,6 +57,7 @@ clients/python
 ├── src
 │   ├── common
 │   │   ├── __init__.py
+│   │   ├── dynamic_webpage_utils.py
 │   │   ├── es_client.py
 │   │   ├── http_utils.py
 │   │   ├── os_utils.py
@@ -48,7 +65,8 @@ clients/python
 │   ├── data_import
 │   │   ├── __init__.py
 │   │   ├── imdb_metadata.py
-│   │   └── imdb_movie_lists.py
+│   │   ├── imdb_movie_lists.py
+│   │   └── iyf_movie_list.py
 │   ├── index
 │   │   ├── __init__.py
 │   │   └── es_indexer.py
@@ -56,6 +74,7 @@ clients/python
 │       └── es_searcher.py
 └── tests
     ├── common
+    │   ├── test_dynamic_webpage_utils.py
     │   └── test_es_client.py
     ├── data_import
     │   └── test_imdb_metadata.py
@@ -63,57 +82,9 @@ clients/python
     │   └── test_es_indexer.py
     └── search
         └── test_es_seacher.py
+
+10 directories, 23 files
 ```
 
-# ES architecture
 
-## Node
 
-Q: a node == a machine? or n nodes can run on the same machine?
-A: __A node refers to an instance of Elasticsearch__, not a machine. Therefore, __any number of nodes can run on the same machine__.
-
-__Each node in a cluster handles the HTTP request__ for a client who wants to send the request to the cluster.
-
-Each __node contains multiple shards__. And the linit of shards per node in ES is 1000 shards per node.
--  you should have a number that is evenly divisible by the number of data nodes. For instance, if you have 3 data nodes, you should have 3, 6 or 9 shards.
-
-The _master nodes_ handles additional tasks, like __setting status of the cluster__, managing indexes and nodes.
-
-# FTS and Interval Query
-
-_Full Text Search (FTS)_ is a feature in databases that allows searching and matching of text documents based on __relevance and ranking__. It is commonly used in applications such as search engines, content management systems, and data analytics.
-
-An _Interval Query_ is a query that __retrieves data based on overlapping or intersecting intervals__. It is commonly used in applications where data is organized into time intervals, such as scheduling, event management, and time-series data analysis.
-
-Interval Query example:
-```
-POST _search
-{
-  "query": {
-    "intervals" : {
-      "my_text" : {  // match field my_text
-        "all_of" : {  // any of the following intervals
-          "ordered" : true,  // the two intervals has a order
-          "intervals" : [
-            {
-              "match" : {
-                "query" : "my favorite food",
-                "max_gaps" : 0,  // no gap between terms
-                "ordered" : true  // terms need to be in this order
-              }
-            },
-            {
-              "any_of" : {
-                "intervals" : [
-                  { "match" : { "query" : "hot water" } },
-                  { "match" : { "query" : "cold porridge" } }
-                ]
-              }
-            }
-          ]
-        }
-      }
-    }
-  }
-}
-```
