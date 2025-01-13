@@ -24,6 +24,13 @@ test: $(VENV)/bin/activate
 	$(PYTEST) -s
 	@echo "Tests finished."
 
+.PHONY: movie-list 
+movie-list: $(VENV)/bin/activate
+	@echo "prepare movie lists locally in ../../data/iyf/<movie list name>.html"
+	export PYTHONPATH=src:PYTHONPATH && \
+	$(PYTHON) ./src/data_import/iyf_movie_list.py 
+	@echo "movie metadata preparation finished"
+
 .PHONY: data
 data: $(VENV)/bin/activate
 	@echo "query movie metadata from IMDB API and save locally in ../../data/imdb/raw"

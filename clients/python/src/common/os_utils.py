@@ -13,8 +13,12 @@ def get_required_env_var(name: str) -> Any:
     return val
 
 
-def file_in_project_data_dir(file_name: str):
-    data_dir = get_required_env_var("OMDB_LOCAL_DATA_DIR")
+def file_in_project_data_dir(file_name: str, data_type="OMDB"):
+    expected_data_types = ["OMDB", "IYF"]
+    if data_type not in expected_data_types:
+        raise ValueError(f"data_type got configured value {data_type} while expected {expected_data_types}")
+    
+    data_dir = get_required_env_var(f"{data_type}_LOCAL_DATA_DIR")
     return f"{data_dir}/{file_name}"
 
 
